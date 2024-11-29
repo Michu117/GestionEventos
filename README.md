@@ -7,15 +7,15 @@ En este repositorio encontrara el desarrollo de un sistema Gesto de Eventos util
 -**Viviana Córdova**
 
 ### Requerimientos 
--El sistema debe permitir gestionar eventos, considerando información relevante como participantes y organizadores. Cada evento tiene características que lo hacen único y debe incluirse una lista de participantes asociados.
+El sistema debe permitir gestionar eventos, considerando información relevante como participantes y organizadores. Cada evento tiene características que lo hacen único y debe incluirse una lista de participantes asociados.
 
--Debe ser posible registrar a los participantes en los eventos, diferenciándolos según su rol o tipo dentro del evento.
+Debe ser posible registrar a los participantes en los eventos, diferenciándolos según su rol o tipo dentro del evento.
 
--El sistema debe incluir la figura de un organizador que gestione varios eventos y pueda realizar tareas relacionadas con la creación, modificación y seguimiento de estos.
+El sistema debe incluir la figura de un organizador que gestione varios eventos y pueda realizar tareas relacionadas con la creación, modificación y seguimiento de estos.
 
--Es necesario que los eventos gestionados permitan asociarse a otros elementos adicionales (decididos por el estudiante) que complementen la funcionalidad del sistema.
+Es necesario que los eventos gestionados permitan asociarse a otros elementos adicionales (decididos por el estudiante) que complementen la funcionalidad del sistema.
 
--En el diseño del sistema, se espera que se implementen y representen las seis relaciones principales de UML:
+En el diseño del sistema, se espera que se implementen y representen las seis relaciones principales de UML:
 
 -**Asociación**
 
@@ -29,7 +29,7 @@ En este repositorio encontrara el desarrollo de un sistema Gesto de Eventos util
 
 -**Realización**
 
--El sistema debe estar implementado en Java y debe permitir realizar las siguientes acciones:
+El sistema debe estar implementado en Java y debe permitir realizar las siguientes acciones:
 
 -**Crear eventos**
 
@@ -41,7 +41,9 @@ En este repositorio encontrara el desarrollo de un sistema Gesto de Eventos util
 
 #### Diagrama UML
 
+
 ##### Codigo
+
 
 ###### Extructura
 
