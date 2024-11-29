@@ -17,27 +17,27 @@ Es necesario que los eventos gestionados permitan asociarse a otros elementos ad
 
 En el diseño del sistema, se espera que se implementen y representen las seis relaciones principales de UML:
 
--**Asociación**
+**Asociación**
 
--**Agregación**
+**Agregación**
 
--**Composición**
+**Composición**
 
--**Dependencia**
+**Dependencia**
 
--**Generalización**
+**Generalización**
 
--**Realización**
+**Realización**
 
 El sistema debe estar implementado en Java y debe permitir realizar las siguientes acciones:
 
--**Crear eventos**
+**Crear eventos**
 
--**Registrar participantes**
+**Registrar participantes**
 
--**Gestionar organizadores**
+**Gestionar organizadores**
 
--**Consultar información sobre eventos, participantes y sus relaciones**
+**Consultar información sobre eventos, participantes y sus relaciones**
 
 #### Diagrama UML
 
