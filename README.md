@@ -45,15 +45,25 @@ El sistema debe estar implementado en Java y debe permitir realizar las siguient
 
 ##### Codigo
 1. [Boleto](https://github.com/Michu117/GestionEventos/blob/main/GentionEventos/src/Boleto.java)
+
 2 .[Contrato](https://github.com/Michu117/GestionEventos/blob/main/GentionEventos/src/Contrato.java)
 
 3 .[Empleado](https://github.com/Michu117/GestionEventos/blob/main/GentionEventos/src/Empleado.java)
+
 4 .[Estado](https://github.com/Michu117/GestionEventos/blob/main/GentionEventos/src/Estado.java)
+
 5 .[Evento](https://github.com/Michu117/GestionEventos/blob/main/GentionEventos/src/Evento.java)
+
 6 .[Factura](https://github.com/Michu117/GestionEventos/blob/main/GentionEventos/src/Factura.java)
+
 7 .[Main](https://github.com/Michu117/GestionEventos/blob/main/GentionEventos/src/Main.java)
+
 8 .[MetodoPago](https://github.com/Michu117/GestionEventos/blob/main/GentionEventos/src/MetodoPago.java)
+
 9 .[Organizador](https://github.com/Michu117/GestionEventos/blob/main/GentionEventos/src/Organizador.java)
+
 10.[Participante](https://github.com/Michu117/GestionEventos/blob/main/GentionEventos/src/Participante.java)
+
 11.[Persona](https://github.com/Michu117/GestionEventos/blob/main/GentionEventos/src/Persona.java)
+
 12.[vendedorBoletos](https://github.com/Michu117/GestionEventos/blob/main/GentionEventos/src/VendedorBoletos.java)
